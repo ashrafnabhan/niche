@@ -1,0 +1,3 @@
+Total found 1788
+Deduplicates removed 590
+Screening 1198

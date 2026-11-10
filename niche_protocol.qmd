@@ -1,5 +1,5 @@
 ---
-title: "Uterine niche: a scoping review protocol"
+title: "Uterine niche: a scoping systematic review protocol"
 format:
   docx:
     toc: false
@@ -66,7 +66,7 @@ The following questions will guide the review:
 
 # Methods
 
-A scoping review approach was chosen as the appropriate method, given the broad and heterogeneous nature of the concept of uterine niche and the aim of mapping, rather than appraising, the evidence. To confirm that no similar review existed, MEDLINE, PROSPERO, the Cochrane Library and the Open Science Framework were searched before starting. This protocol was developed in accordance with PRISMA-P [@Moher2015] and the JBI guidance for scoping reviews [@Peters2020]. The protocol will be prospectively registered on the Open Science Framework platform, and the review will be conducted according to the pre-specified methods [@nabhan2020]. Any deviation from the protocol will be documented and reported in the final review.
+A scoping review approach was chosen as the appropriate method, given the broad and heterogeneous nature of the concept of uterine niche and the aim of mapping, rather than appraising, the evidence. To confirm that no similar review existed, MEDLINE, PROSPERO, the Cochrane Library and the Open Science Framework were searched before starting. This protocol was developed in accordance with PRISMA-P [@Moher2015] and the JBI guidance for scoping reviews [@Peters2020]. The protocol will be prospectively registered on the Open Science Framework platform, and the review will be conducted according to the pre-specified methods. Any deviation from the protocol will be documented and reported in the final review.
 
 The methods are guided by the framework of Arksey and O'Malley [@Arksey2005], subsequently adapted by Levac et al. [@Levac2010] and Colquhoun et al. [@Colquhoun2014], and by the Joanna Briggs Institute guidelines [@Peters2015; @Peters2020].
 
