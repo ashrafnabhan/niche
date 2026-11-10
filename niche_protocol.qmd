@@ -1,0 +1,220 @@
+---
+title: "Uterine niche: a scoping review protocol"
+format:
+  docx:
+    toc: false
+bibliography: references.bib
+---
+
+# Authors
+
+[Author names, affiliations, corresponding author and ORCID iDs to be added]
+
+# Abstract
+
+**Background**: A uterine niche is a defect in the myometrium at the site of a previous cesarean scar. The condition is described under several names (niche, isthmocele, cesarean scar defect, uterine scar defect) and diagnosed with varying techniques and thresholds. It has been linked to gynecological symptoms, subfertility, adverse outcomes in assisted reproduction and complications in later pregnancies. Without a consensus definition, the evidence is difficult to interpret.
+
+**Objectives**: To map the available literature on uterine niche: its terminology and definitions, diagnostic methods, prevalence, determinants, clinical consequences (gynecological, reproductive and obstetric), effect on demand for fertility services, and management, and to identify gaps in the evidence.
+
+**Methods**: This scoping review will follow the framework of Arksey and O'Malley, as refined by Levac et al. and Colquhoun et al., and the Joanna Briggs Institute (JBI) guidance. We will search Embase, MEDLINE, Web of Science and Scopus from inception to the date of the final search, without language or date restrictions, and will hand-search reference lists and citing articles. Two reviewers will independently screen reports and chart data. Results will be summarized by conceptual grouping, with tables, graphical synthesis and narrative commentary. Reporting will follow PRISMA-ScR.
+
+**Dissemination**: Findings will be submitted to a peer-reviewed journal and presented at relevant scientific meetings.
+
+**Registration**: Open Science Framework (<https://osf.io/>); registration identifier to be added.
+
+**Keywords**: uterine niche, cesarean delivery, assisted reproduction, infertility, scoping review, humans, female.
+
+# Introduction
+
+## Background
+
+Cesarean delivery is one of the most common major surgical procedures worldwide, and its use has risen steadily across most regions over recent decades. After cesarean delivery, the uterine incision usually heals as a scar in the anterior wall of the lower uterine segment. In a proportion of women, healing is incomplete and a pouch-like indentation or discontinuity of the myometrium remains at the scar site. This defect is most often called a *niche*, and is also referred to as an isthmocele, a cesarean scar defect or a uterine scar defect.
+
+A niche may be asymptomatic. When symptomatic, it is associated with postmenstrual spotting, dysmenorrhea, chronic pelvic pain and dyspareunia, and it has been proposed as a cause of secondary infertility. In women undergoing assisted reproduction, fluid within the niche or a niche close to the embryo transfer site may reduce the chance of implantation. In subsequent pregnancies a niche is relevant to cesarean scar pregnancy, placenta accreta spectrum, scar dehiscence and uterine rupture.
+
+Reported prevalence varies widely between studies. This is probably explained by differences in imaging modality (transvaginal ultrasound, saline contrast sonohysterography, gel instillation sonography, hysterosalpingography, hysteroscopy, magnetic resonance imaging), timing of assessment after delivery, uterine position, the minimum depth or size used to define a niche, and the surgical technique and population studied. Terminology and diagnostic criteria have been the subject of consensus efforts, but it is unclear how widely these have been adopted.
+
+Given the rising cesarean rate and the growing number of women seeking fertility care after cesarean delivery, a clear map of the literature is needed. A preliminary search of MEDLINE, the Cochrane Database of Systematic Reviews, the JBI Evidence Synthesis database and the Open Science Framework did not identify a published or ongoing scoping review that covers the full conceptual range of uterine niche. Existing systematic reviews address narrower questions, such as the effect of single- versus double-layer closure on niche formation or the effect of niche repair on symptoms. A scoping review is appropriate because the field is heterogeneous, uses inconsistent terminology and has not been mapped as a whole.
+
+## Objectives
+
+The overall objective is to map the extent, range and nature of the literature on uterine niche.
+
+The specific objectives are:
+
+1. To identify the terms and working definitions used for uterine niche.
+2. To describe the diagnostic methods, timing of assessment and diagnostic criteria used.
+3. To summarize reported prevalence and its variation by population, methods and time since delivery.
+4. To identify reported determinants and risk factors, including surgical and patient-related factors.
+5. To describe reported clinical consequences, including gynecological symptoms, fertility and assisted reproduction outcomes, and obstetric outcomes.
+6. To describe how uterine niche relates to demand for and use of fertility services.
+7. To summarize the management strategies studied (expectant, medical, surgical, and preventive).
+8. To identify gaps in the evidence and priorities for future research.
+
+## Review questions
+
+The following questions will guide the review:
+
+1. What terms and definitions have been used for uterine niche?
+2. How is uterine niche diagnosed, and what criteria and imaging methods are used?
+3. What is the reported prevalence of uterine niche, and how does it vary?
+4. What are the reported determinants of uterine niche?
+5. What are the reported effects of uterine niche on gynecological symptoms, fertility, assisted reproduction outcomes and subsequent pregnancy outcomes?
+6. What are the effects of uterine niche on demand for fertility services?
+7. What interventions have been studied for the prevention or treatment of uterine niche?
+8. What are the characteristics of the research (design, setting, time, population) and where are the gaps?
+
+# Methods
+
+A scoping review approach was chosen as the appropriate method, given the broad and heterogeneous nature of the concept of uterine niche and the aim of mapping, rather than appraising, the evidence. To confirm that no similar review existed, MEDLINE, PROSPERO, the Cochrane Library and the Open Science Framework were searched before starting. This protocol was developed in accordance with PRISMA-P [@Moher2015] and the JBI guidance for scoping reviews [@Peters2020]. The protocol will be prospectively registered on the Open Science Framework platform, and the review will be conducted according to the pre-specified methods [@nabhan2020]. Any deviation from the protocol will be documented and reported in the final review.
+
+The methods are guided by the framework of Arksey and O'Malley [@Arksey2005], subsequently adapted by Levac et al. [@Levac2010] and Colquhoun et al. [@Colquhoun2014], and by the Joanna Briggs Institute guidelines [@Peters2015; @Peters2020].
+
+## Stage 1: Identifying the research questions
+
+The research questions are listed above. They were refined through discussion within the team, which includes clinical and methodological expertise.
+
+## Stage 2: Identifying relevant studies
+
+We will search for published and unpublished sources relevant to uterine niche.
+
+**First step**: An initial limited search of MEDLINE will be performed. We will analyze the text words in the titles and abstracts, and the index terms, of the retrieved articles.
+
+**Second step**: All identified keywords and index terms will be used to develop the full search strategy, built by an experienced author [AN] and reviewed by a second reviewer using the PRESS checklist [@McGowan2016]. The strategy combines (a) terms for the niche and its synonyms, such as "niche", "isthmocele", "cesarean scar defect", "uterine scar defect", "cesarean scar pouch" and "uterine diverticulum", with (b) terms for the uterine scar, cesarean section and the lower uterine segment, using controlled vocabulary (MeSH, Emtree) and free-text words. The draft MEDLINE strategy is in Appendix 1 and will be adapted for each database.
+
+We will search the following databases from inception to the date of the final search: MEDLINE, Embase, Web of Science and Scopus. To capture unpublished and grey literature, we will also search ClinicalTrials.gov, the WHO International Clinical Trials Registry Platform, medRxiv, and the proceedings of relevant conferences where available. Where possible, ProQuest Dissertations and Theses will be searched. No language or date restriction will be imposed. Non-English reports will be translated by team members or with translation tools.
+
+**Third step**: For all included reports, we will hand-search the reference lists and explore the cited-by logs. We will also screen the references of relevant systematic reviews and consensus statements. The search will be updated before submission for publication.
+
+## Stage 3: Study selection
+
+Eligibility criteria are structured using the Population, Concept and Context (PCC) framework.
+
+**Population**: Women (or people with a uterus) with a previous cesarean delivery or other uterine incision, in any clinical setting (general obstetric population, gynecological patients, subfertile women, women undergoing assisted reproduction, women in subsequent pregnancy). Studies of animals, and studies of congenital uterine anomalies without a scar defect, will be excluded.
+
+**Concept**: Uterine niche, under any name (including isthmocele, cesarean scar defect, uterine scar defect and cesarean scar pouch). Reports are eligible if they address any of the following: definition or terminology, diagnosis, prevalence, determinants, clinical consequences, relation to fertility services, or prevention and treatment.
+
+**Context**: Any country, setting and time period.
+
+**Types of sources**: All study designs and publication types will be eligible, including randomized and non-randomized trials, cohort, case-control and cross-sectional studies, case series, systematic reviews, guidelines, consensus statements, narrative reviews, editorials and conference abstracts. Single case reports will be included and mapped as such. Reports that mention a niche only incidentally, without it being a variable of interest, will be excluded.
+
+**Screening process**: Records will be exported to a reference manager, deduplicated and uploaded to a screening platform. A pilot screening of a sample of records will be done to calibrate reviewers. The titles and abstracts of the records identified by the electronic search will be independently screened by two authors, followed by independent review of the full text of potentially relevant reports. Disagreements will be resolved by discussion, and when agreement cannot be reached an opinion will be requested from a third reviewer. Reasons for excluding full-text reports will be recorded. The process will be reported in a PRISMA flow diagram (Figure 1) [@tricco2018].
+
+## Stage 4: Data charting
+
+A data charting form will be developed a priori to capture the relevant data from included reports. It will be piloted on a sample of reports and refined iteratively based on team feedback in regular meetings. Two authors will independently chart the data, and discrepancies will be resolved by consensus. The following items will be extracted:
+
+- **Report data**: title, year of publication, first author, language, publication type, source database and identifier.
+- **Methodological data**: study design, setting and country, study period, sample size, population characteristics, mode and technique of previous cesarean delivery, and (for comparative studies) the comparison groups.
+- **Definition and diagnosis**: term used, definition, diagnostic modality, timing of assessment after delivery, measurements and cut-offs, and classification systems.
+- **Occurrence**: prevalence or incidence, and its denominator.
+- **Determinants**: factors reported as associated with niche presence or size.
+- **Outcomes**: gynecological symptoms, fertility and assisted reproduction outcomes, subsequent pregnancy and obstetric outcomes, and use of fertility services.
+- **Interventions**: type of preventive or therapeutic intervention and reported outcomes.
+- **Gaps and recommendations** identified by the authors.
+
+We do not plan to perform a formal critical appraisal of the included reports, in line with scoping review methodology. Where studies are cited as evidence of an effect, the study design will be reported to indicate the likely level of evidence.
+
+## Stage 5: Collating, summarizing and reporting the results
+
+We will carry out a descriptive numerical summary of the included reports (by year, country, design, population and setting) and a conceptual synthesis. Reports will be grouped by the concepts above: definitions, diagnosis, prevalence, determinants, consequences and management. Within each group we will summarize the definitions, measures used, temporal trends, determinants and broad findings. Structured tabulation and graphical synthesis (such as evidence maps, heat maps of design by outcome, and trends over time) will be used to show patterns and convey detailed information efficiently, together with narrative commentary. Where terminology is inconsistent, we will tabulate the terms used and the definitions attached to each.
+
+## Consultation
+
+We will consult a small group of stakeholders, including clinicians (obstetricians, gynecologists, reproductive medicine specialists and radiologists) and, if feasible, women with lived experience, to review the preliminary findings and to help interpret their relevance to practice. This stage is optional in the framework and will be reported separately from the evidence map.
+
+## Reporting
+
+The review will be reported in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews (PRISMA-ScR) [@tricco2018].
+
+## Software
+
+R software [@RCoreTeam2026] will be used for text mining, data wrangling and data visualization.
+
+## Timeline
+
+| Phase | Activity | Planned timing |
+|---|---|---|
+| 1 | Protocol development and registration | [month, year] |
+| 2 | Search strategy finalization and database searches | [month, year] |
+| 3 | Deduplication, title and abstract screening | [month, year] |
+| 4 | Full-text screening | [month, year] |
+| 5 | Data charting | [month, year] |
+| 6 | Synthesis, consultation and drafting | [month, year] |
+| 7 | Submission for publication | [month, year] |
+
+# Discussion
+
+This systematic scoping review will be the first attempt to map the extent of research on uterine niche. On its own, the review will inform readers on the extent and nature of the existing literature in this area, as well as the working definitions, diagnostic methods, determinants, clinical consequences, relation to assisted reproduction and management options. It will identify where the evidence is concentrated, where it is sparse, and where inconsistent terminology prevents comparison between studies. The findings are intended to help clinicians and researchers prioritize questions for future primary studies and for future systematic reviews on specific, well-defined topics, and to support work towards a consensus on definitions and outcome measures.
+
+**Strengths and limitations**: The strengths of this review include a pre-registered protocol, a comprehensive search across several databases and grey literature without language restriction, independent duplicate screening and charting, and adherence to established guidance. As the purpose is to map rather than appraise the evidence, no formal assessment of risk of bias will be performed, and the review will not be able to estimate the effect of niche on clinical outcomes. Variation in terminology may lead to missed reports, which we will attempt to limit by using a broad range of synonyms and by hand-searching references.
+
+# Authors' contributions
+
+[Initials to be added.] AN conceived the review and designed the search strategy. All authors contributed to the development of the protocol and approved the final version.
+
+# Authors' information
+
+[Author details to be added]
+
+# Availability of data and materials
+
+All data generated or analyzed during this study will be included in the published scoping review article and will be available upon request.
+
+# Ethics approval and consent to participate
+
+Not applicable. This review uses published and publicly available data only.
+
+# Consent for publication
+
+Not applicable
+
+# Competing interests
+
+The authors have no competing interests.
+
+# Funding
+
+[To be added]
+
+# Figures
+
+**Figure 1.** PRISMA flow diagram of study selection (to be completed).
+
+# Tables
+
+**Table 1.** Characteristics of included reports (to be completed).
+
+**Table 2.** Terms and definitions used for uterine niche (to be completed).
+
+**Table 3.** Diagnostic methods and criteria (to be completed).
+
+# Appendix 1
+
+## Search strategies
+
+Draft strategy for MEDLINE (Ovid). It will be peer reviewed, tested against a set of known relevant reports, and adapted for Embase (Emtree terms), Web of Science and Scopus.
+
+```
+1. Cesarean Section/
+2. (cesarean* or caesarean* or c-section* or "c section*").tw,kf.
+3. Cicatrix/
+4. (scar* or incision*).tw,kf.
+5. Uterus/ or Myometrium/
+6. (uter* or myometri* or "lower segment*" or isthm*).tw,kf.
+7. or/1-2
+8. (niche* or isthmocele* or diverticul* or pouch* or defect* or dehiscen* or deficien* or "windowing" or "wedge-shaped").tw,kf.
+9. ((uter* or cesarean* or caesarean* or scar*) adj3 (niche* or isthmocele* or diverticul* or pouch* or defect* or deficien*)).tw,kf.
+10. (isthmocele* or "uterine niche*" or "cesarean scar defect*" or "caesarean scar defect*" or "uterine scar defect*" or "cesarean scar niche*" or "caesarean scar niche*" or "cesarean scar disorder*" or "scar niche*").tw,kf.
+11. 9 or 10
+12. (7 and (3 or 4) and 8 and (5 or 6)) or 11
+13. exp animals/ not humans/
+14. 12 not 13
+```
+
+Database-specific versions, dates of search and numbers of records retrieved will be added when the searches are run.
+
+# References
+
+::: {#refs}
+:::
