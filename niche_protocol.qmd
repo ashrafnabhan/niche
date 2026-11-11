@@ -1,9 +1,13 @@
 ---
 title: "Uterine niche: a scoping systematic review protocol"
-format:
-  docx:
-    toc: false
 bibliography: references.bib
+csl: vancouver.csl
+subject: "Study Protocol"
+format: 
+  html: 
+    theme: cosmo
+  docx:
+    reference-doc: custom-reference-doc.docx
 ---
 
 # Authors
@@ -28,13 +32,13 @@ bibliography: references.bib
 
 ## Background
 
-Cesarean delivery is one of the most common major surgical procedures worldwide, and its use has risen steadily across most regions over recent decades. After cesarean delivery, the uterine incision usually heals as a scar in the anterior wall of the lower uterine segment. In a proportion of women, healing is incomplete and a pouch-like indentation or discontinuity of the myometrium remains at the scar site. This defect is most often called a *niche*, and is also referred to as an isthmocele, a cesarean scar defect or a uterine scar defect.
+Cesarean delivery is one of the most common major surgical procedures worldwide, and its use has risen steadily across most regions over recent decades. After cesarean delivery, the uterine incision usually heals as a scar in the anterior wall of the lower uterine segment. In a proportion of women, healing is incomplete and a pouch-like indentation or discontinuity of the myometrium remains at the scar site. Obstetricians often refer to this defect as a niche, and it is also known as an isthmocele, a cesarean scar defect or a uterine scar defect. 
 
-A niche may be asymptomatic. When symptomatic, it is associated with postmenstrual spotting, dysmenorrhea, chronic pelvic pain and dyspareunia, and it has been proposed as a cause of secondary infertility. In women undergoing assisted reproduction, fluid within the niche or a niche close to the embryo transfer site may reduce the chance of implantation. In subsequent pregnancies a niche is relevant to cesarean scar pregnancy, placenta accreta spectrum, scar dehiscence and uterine rupture.
+A niche may be asymptomatic. When symptomatic, it is associated with postmenstrual spotting. It has been proposed as a cause of secondary subfertility. In women undergoing assisted reproduction, fluid within the niche or a niche close to the embryo transfer site may reduce the chance of implantation. In subsequent pregnancies a niche is relevant to cesarean scar pregnancy, placenta accreta spectrum, scar dehiscence and uterine rupture.
 
 Reported prevalence varies widely between studies. This is probably explained by differences in imaging modality (transvaginal ultrasound, saline contrast sonohysterography, gel instillation sonography, hysterosalpingography, hysteroscopy, magnetic resonance imaging), timing of assessment after delivery, uterine position, the minimum depth or size used to define a niche, and the surgical technique and population studied. Terminology and diagnostic criteria have been the subject of consensus efforts, but it is unclear how widely these have been adopted.
 
-Given the rising cesarean rate and the growing number of women seeking fertility care after cesarean delivery, a clear map of the literature is needed. A preliminary search of MEDLINE, the Cochrane Database of Systematic Reviews, the JBI Evidence Synthesis database and the Open Science Framework did not identify a published or ongoing scoping review that covers the full conceptual range of uterine niche. Existing systematic reviews address narrower questions, such as the effect of single- versus double-layer closure on niche formation or the effect of niche repair on symptoms. A scoping review is appropriate because the field is heterogeneous, uses inconsistent terminology and has not been mapped as a whole.
+Given the rising cesarean rate and the growing number of women seeking fertility care after cesarean delivery, a clear map of the literature is needed. A preliminary search of Embase, MEDLINE, the Cochrane Database of Systematic Reviews, the JBI Evidence Synthesis database, and the Open Science Framework did not identify a published or ongoing scoping review that covers the full conceptual range of uterine niche. Existing systematic reviews address narrower questions, such as the effect of single- versus double-layer closure on niche formation or the effect of niche repair on symptoms. A scoping review is appropriate because the field is heterogeneous, uses inconsistent terminology and has not been mapped as a whole.
 
 ## Objectives
 
@@ -66,7 +70,9 @@ The following questions will guide the review:
 
 # Methods
 
-A scoping review approach was chosen as the appropriate method, given the broad and heterogeneous nature of the concept of uterine niche and the aim of mapping, rather than appraising, the evidence. To confirm that no similar review existed, MEDLINE, PROSPERO, the Cochrane Library and the Open Science Framework were searched before starting. This protocol was developed in accordance with PRISMA-P [@Moher2015] and the JBI guidance for scoping reviews [@Peters2020]. The protocol will be prospectively registered on the Open Science Framework platform, and the review will be conducted according to the pre-specified methods. Any deviation from the protocol will be documented and reported in the final review.
+A scoping review approach was chosen as the appropriate method, given the broad and heterogeneous nature of the concept of uterine niche and the aim of mapping, rather than appraising, the evidence. To confirm that no similar review existed, Embase MEDLINE, PROSPERO, the Cochrane Library and the Open Science Framework were searched before starting. 
+
+The protocol will be prospectively registered on the Open Science Framework platform, and the review will be conducted according to the pre-specified methods. Any deviation from the protocol will be documented and reported in the final review.
 
 The methods are guided by the framework of Arksey and O'Malley [@Arksey2005], subsequently adapted by Levac et al. [@Levac2010] and Colquhoun et al. [@Colquhoun2014], and by the Joanna Briggs Institute guidelines [@Peters2015; @Peters2020].
 
@@ -113,35 +119,39 @@ A data charting form will be developed a priori to capture the relevant data fro
 - **Interventions**: type of preventive or therapeutic intervention and reported outcomes.
 - **Gaps and recommendations** identified by the authors.
 
-We do not plan to perform a formal critical appraisal of the included reports, in line with scoping review methodology. Where studies are cited as evidence of an effect, the study design will be reported to indicate the likely level of evidence.
+We do not plan to perform a formal critical appraisal of the included reports, in line with scoping review methodology. 
 
 ## Stage 5: Collating, summarizing and reporting the results
 
-We will carry out a descriptive numerical summary of the included reports (by year, country, design, population and setting) and a conceptual synthesis. Reports will be grouped by the concepts above: definitions, diagnosis, prevalence, determinants, consequences and management. Within each group we will summarize the definitions, measures used, temporal trends, determinants and broad findings. Structured tabulation and graphical synthesis (such as evidence maps, heat maps of design by outcome, and trends over time) will be used to show patterns and convey detailed information efficiently, together with narrative commentary. Where terminology is inconsistent, we will tabulate the terms used and the definitions attached to each.
+We will carry out a descriptive numerical summary of the included reports (by year, country, design, population and setting) and a conceptual synthesis. 
+
+Reports will be grouped by the concepts above: definitions, diagnosis, prevalence, determinants, consequences and management. Within each group we will summarize the definitions, measures used, temporal trends, determinants and broad findings. Structured tabulation and graphical synthesis (such as evidence maps, heat maps of design by outcome, and trends over time) will be used to show patterns and convey detailed information efficiently, together with narrative commentary. Where terminology is inconsistent, we will tabulate the terms used and the definitions attached to each.
 
 ## Consultation
 
-We will consult a small group of stakeholders, including clinicians (obstetricians, gynecologists, reproductive medicine specialists and radiologists) and, if feasible, women with lived experience, to review the preliminary findings and to help interpret their relevance to practice. This stage is optional in the framework and will be reported separately from the evidence map.
+We will consult a small group of clinicians (obstetricians, gynecologists, reproductive medicine specialists and radiologists) to review the preliminary findings and to help interpret their relevance to practice. This stage will be reported separately from the evidence map.
 
 ## Reporting
+
+The protocol will be reported in accordance with PRISMA-P [@Moher2015].  
 
 The review will be reported in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews (PRISMA-ScR) [@tricco2018].
 
 ## Software
 
-R software [@RCoreTeam2026] will be used for text mining, data wrangling and data visualization.
+R software [@RCoreTeam2026] will be used for text mining, data wrangling, and data visualization.
 
 ## Timeline
 
 | Phase | Activity | Planned timing |
 |---|---|---|
-| 1 | Protocol development and registration | [month, year] |
-| 2 | Search strategy finalization and database searches | [month, year] |
-| 3 | Deduplication, title and abstract screening | [month, year] |
-| 4 | Full-text screening | [month, year] |
-| 5 | Data charting | [month, year] |
-| 6 | Synthesis, consultation and drafting | [month, year] |
-| 7 | Submission for publication | [month, year] |
+| 1 | Protocol development and registration | [Nov, 2026] |
+| 2 | Search strategy finalization and database searches | [Nov, 2026] |
+| 3 | Deduplication, title and abstract screening | [Dec, 2026] |
+| 4 | Full-text screening | [Dec, 2026] |
+| 5 | Data charting | [Jan, 2027] |
+| 6 | Synthesis, consultation and drafting | [Feb, 2027] |
+| 7 | Submission for publication | [Mar, 2027] |
 
 # Discussion
 
@@ -193,7 +203,7 @@ The authors have no competing interests.
 
 ## Search strategies
 
-Draft strategy for MEDLINE (Ovid). It will be peer reviewed, tested against a set of known relevant reports, and adapted for Embase (Emtree terms), Web of Science and Scopus.
+Draft strategy for MEDLINE (Ovid). It will be peer reviewed, tested against a set of known relevant reports, and adapted for Embase (Emtree terms).
 
 ```
 1. Cesarean Section/
@@ -215,6 +225,3 @@ Draft strategy for MEDLINE (Ovid). It will be peer reviewed, tested against a se
 Database-specific versions, dates of search and numbers of records retrieved will be added when the searches are run.
 
 # References
-
-::: {#refs}
-:::
