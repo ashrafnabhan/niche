@@ -20,13 +20,13 @@ format:
 
 **Objectives**: To map the available literature on uterine niche: its terminology and definitions, diagnostic methods, prevalence, determinants, clinical consequences (gynecological, reproductive and obstetric), effect on demand for fertility services, and management, and to identify gaps in the evidence.
 
-**Methods**: This scoping review will follow the framework of Arksey and O'Malley, as refined by Levac et al. and Colquhoun et al., and the Joanna Briggs Institute (JBI) guidance. We will search Embase, MEDLINE, Web of Science and Scopus from inception to the date of the final search, without language or date restrictions, and will hand-search reference lists and citing articles. Two reviewers will independently screen reports and chart data. Results will be summarized by conceptual grouping, with tables, graphical synthesis and narrative commentary. Reporting will follow PRISMA-ScR.
+**Methods**: This scoping review will be guided by the Joanna Briggs Institute methodology for scoping reviews. We will search Embase, MEDLINE, Web of Science and Scopus from inception to the date of the final search, without language or date restrictions, and will hand-search reference lists and citing articles. Two reviewers will independently screen reports and chart data. Results will be summarized by conceptual grouping, with tables, graphical synthesis and narrative commentary. The reporting of this scoping review will adhere to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews (PRISMA-ScR).
 
 **Dissemination**: Findings will be submitted to a peer-reviewed journal and presented at relevant scientific meetings.
 
 **Registration**: Open Science Framework (<https://osf.io/2w8z4/>).
 
-**Keywords**: uterine niche, cesarean delivery, assisted reproduction, infertility, scoping review, humans, female.
+**Keywords**: Uterine niche, cesarean delivery, assisted reproduction, infertility, scoping review, humans, female.
 
 # Background
 
