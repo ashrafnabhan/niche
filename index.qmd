@@ -24,7 +24,7 @@ format:
 
 **Dissemination**: Findings will be submitted to a peer-reviewed journal and presented at relevant scientific meetings.
 
-**Registration**: Open Science Framework (<https://osf.io/>); registration identifier to be added.
+**Registration**: Open Science Framework (<https://osf.io/2w8z4/>).
 
 **Keywords**: uterine niche, cesarean delivery, assisted reproduction, infertility, scoping review, humans, female.
 
