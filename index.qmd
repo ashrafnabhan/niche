@@ -28,9 +28,7 @@ format:
 
 **Keywords**: uterine niche, cesarean delivery, assisted reproduction, infertility, scoping review, humans, female.
 
-# Introduction
-
-## Background
+# Background
 
 Cesarean delivery is one of the most common major surgical procedures worldwide, and its use has risen steadily across most regions over recent decades. After cesarean delivery, the uterine incision usually heals as a scar in the anterior wall of the lower uterine segment. In a proportion of women, healing is incomplete and a pouch-like indentation or discontinuity of the myometrium remains at the scar site. Obstetricians often refer to this defect as a niche, and it is also known as an isthmocele, a cesarean scar defect or a uterine scar defect. 
 
@@ -40,7 +38,7 @@ Reported prevalence varies widely between studies. This is probably explained by
 
 Given the rising cesarean rate and the growing number of women seeking fertility care after cesarean delivery, a clear map of the literature is needed. A preliminary search of Embase, MEDLINE, the Cochrane Database of Systematic Reviews, the JBI Evidence Synthesis database, and the Open Science Framework did not identify a published or ongoing scoping review that covers the full conceptual range of uterine niche. Existing systematic reviews address narrower questions, such as the effect of single- versus double-layer closure on niche formation or the effect of niche repair on symptoms. A scoping review is appropriate because the field is heterogeneous, uses inconsistent terminology and has not been mapped as a whole.
 
-## Objectives
+# Objectives
 
 The overall objective is to map the extent, range and nature of the literature on uterine niche.
 
@@ -55,7 +53,7 @@ The specific objectives are:
 7. To summarize the management strategies studied (expectant, medical, surgical, and preventive).
 8. To identify gaps in the evidence and priorities for future research.
 
-## Review questions
+# Review questions
 
 The following questions will guide the review:
 
