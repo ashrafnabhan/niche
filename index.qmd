@@ -12,7 +12,7 @@ format:
 
 # Authors
 
-[Author names, affiliations, corresponding author and ORCID iDs to be added]
+Sara Abdelkader, Nada Badawy, Ethar Mohamed, Taha Muhammad, Ashraf Nabhan
 
 # Abstract
 
